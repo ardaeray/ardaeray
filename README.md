@@ -1,4 +1,13 @@
-### Hi there 👋
+### About Me:
+
+Hi there, I'm Arda.
+
+As a first-grade student in computer engineering, I'm passionate about exploring the world of technology. In the current state of my education, I'm learning the fundamentals of programming languages over java and how hardwares of a computer works. I'm passionate about what I am learning and looking forward with eager to do my job. My GitHub reflects the journey of mine while I learn and grow in the exciting field of computer engineering.
+
+## Socials:
+[Click here](https://www.instagram.com/ardaaeray/) [Click here](https://tr.linkedin.com/in/arda-eray-98a08b207)
+
+## Tech Stack:
 
 <!--
 **ardaeray/ardaeray** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
