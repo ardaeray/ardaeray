@@ -1,5 +1,5 @@
-<h1 align="center">Hi there, I'm Arda.</h1>
-<h3 align="center">As a first-grade student in computer engineering, I'm passionate about exploring the world of technology. In the current state of my education, I'm learning the fundamentals of programming languages over java and how hardwares of a computer works. I'm passionate about what I am learning and looking forward with eager to do my job. My GitHub reflects the journey of mine while I learn and grow in the exciting field of computer engineering.</h3>
+<h1 align="left">Hi there, I'm Arda.</h1>
+<p align="left">As a first-grade student in computer engineering, I'm passionate about exploring the world of technology. In the current state of my education, I'm learning the fundamentals of programming languages over java and how hardwares of a computer works. I'm passionate about what I am learning and looking forward with eager to do my job. My GitHub reflects the journey of mine while I learn and grow in the exciting field of computer engineering.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ardaeray&label=Profile%20views&color=0e75b6&style=flat" alt="ardaeray" /> </p>
 
